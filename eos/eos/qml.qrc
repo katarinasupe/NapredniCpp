@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Eos.qml</file>
+        <file>EosForm.ui.qml</file>
+    </qresource>
+</RCC>
